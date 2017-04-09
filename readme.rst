@@ -8,9 +8,9 @@ This is a test project for online advertisement portal.
 Tech-Stack
 ###################
 
-CodeIgniter
-MySQL database
-Twitter Boostrap
+CodeIgniter,
+MySQL database,
+Twitter Boostrap,
 MINIUM - Theme 
 
 ###################
